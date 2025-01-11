@@ -1,7 +1,7 @@
 # Trimmer in the Boatrace Venture Project
 
 [![Build Status](https://github.com/BoatraceVentureProject/Trimmer/workflows/tests/badge.svg)](https://github.com/BoatraceVentureProject/Trimmer/actions?query=workflow%3Atests)
-[![Coverage Status](https://coveralls.io/repos/github/BoatraceVentureProject/Trimmer/badge.svg?branch=main)](https://coveralls.io/github/BoatraceVentureProject/Trimmer?branch=main)
+[![codecov](https://codecov.io/gh/BoatraceVentureProject/Trimmer/graph/badge.svg?token=HBAIONFOEN)](https://codecov.io/gh/BoatraceVentureProject/Trimmer)
 [![Latest Stable Version](https://poser.pugx.org/bvp/trimmer/v/stable)](https://packagist.org/packages/bvp/trimmer)
 [![Latest Unstable Version](https://poser.pugx.org/bvp/trimmer/v/unstable)](https://packagist.org/packages/bvp/trimmer)
 [![License](https://poser.pugx.org/bvp/trimmer/license)](https://packagist.org/packages/bvp/trimmer)
